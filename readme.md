@@ -9,4 +9,6 @@ Admin: index, add, delete, edit<br>
 <br>
 Todo:<br>
 user authentification<br>
-time updated at
+time updated at<br>
+refactor<br>
+styling
